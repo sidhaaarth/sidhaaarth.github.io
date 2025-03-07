@@ -1,30 +1,43 @@
 ---
 layout: default
-title: Sidharth Kalyan Ram
+title: Home
 ---
 
 <div class="container">
-  <h1>👋 Hi, I'm Sidharth  </h1>
+  <!-- Removed the top "SIDHARTH" heading here -->
+
+  <h1>HI, I'M SIDHARTH</h1>
   
-  **SOFTWARE ENGINEER**  
-  *DevOps | Cloud Security | Automation*   
+  <h2>SOFTWARE ENGINEER</h2>
+  <h3>DevOps | Cloud Security | Automation</h3>
 
   <nav>
-    [Projects](/projects) | [Resume](/resume) | [Contact](/contact)
+    [<a href="/projects">Projects</a>] | 
+    [<a href="/resume">Resume</a>] | 
+    [<a href="/contact">Contact</a>]
   </nav>
 
   ---
 
-  ### <span style="font-style: italic;">// About Me</span>  
-  I engineer resilient systems and automate chaos.  
-  - **Languages**: Python, Go, C#  
-  - **Cloud**: AWS, Azure, GCP  
-  - **DevOps**: Kubernetes, Docker, Terraform
-  - **Security**: eBPF, Layer 4/7 protocols   
+  <div class="about-section">
+    <h3>// About Me</h3>
+    <p>I engineer resilient systems and automate chaos.</p>
+    
+    <ul class="skills-list">
+      <li><strong>Languages:</strong> Python, Go, C#</li>
+      <li><strong>Cloud:</strong> AWS, Azure, GCP</li>
+      <li><strong>DevOps:</strong> Kubernetes, Docker, Terraform</li>
+      <li><strong>Security:</strong> eBPF, Layer 4/7 protocols</li>
+    </ul>
+  </div>
 
-  ### <span style="font-style: italic;">// Focus Areas</span>  
-  - Optimizing infrastructure costs and performance.  
-  - Securing distributed systems with observability tools.  
-  - Automating workflows for faster delivery.  
+  <div class="focus-section">
+    <h3>// Focus Areas</h3>
+    <ul>
+      <li>Optimizing infrastructure costs and performance</li>
+      <li>Securing distributed systems with observability tools</li>
+      <li>Automating workflows for faster delivery</li>
+    </ul>
+  </div>
 
 </div>
