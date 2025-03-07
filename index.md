@@ -4,15 +4,10 @@ title: Sidharth Kalyan Ram
 ---
 
 <div class="container">
-  <h1>SIDHARTH KALYAN RAM</h1>
+  <h1>👋 Hi, I'm Sidharth  </h1>
   
   **SOFTWARE ENGINEER**  
-  *DevOps | Cloud Security | Automation*  
-
-  ---
-  # 👋 Hi, I'm Sidharth   
-  **Software Engineer | DevOps & Cloud Security**  
- 
+  *DevOps | Cloud Security | Automation*   
 
   <nav>
     [Projects](/projects) | [Resume](/resume) | [Contact](/contact)
